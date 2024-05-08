@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Awesome JSP UI</title>
-    <style>
+<title>Some relevant title</title>
+<style>
         /* Basic styles for the navbar */
         body {
             font-family: Arial, sans-serif;
@@ -54,18 +54,8 @@
     <a href="#">Contact</a>
 </div>
 
-<!-- Main Content -->
-<div class="main-content">
-    <h1>Welcome to our Awesome Website!</h1>
-    <p>This is a cool JSP UI example with a navigation bar and creative elements.</p>
-
-    <!-- Creative Element -->
-    <div class="creative-box">
-        <h2>Our Mission</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam accumsan lorem nec metus aliquet, a suscipit nunc suscipit.</p>
-        <button onclick="alert('You clicked the button!')">Click Me</button>
-    </div>
-</div>
+	<h2>We are migrating Java WebApp from from GitHub into Azure Cloud by building Azure pipeline!!!</h2>
+	  <h2>Azure DevOps is a platform which has five different components !!!</h2>
 
 </body>
 </html>
